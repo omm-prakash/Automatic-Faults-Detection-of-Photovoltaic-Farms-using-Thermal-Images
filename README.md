@@ -56,11 +56,12 @@
 
 # Abstract
   - Because of increasing demand of renewable energy, proper management of photovoltaic hubs is important. But fault detections in them is still a challenge. The main temperature consequenced faults can be detected using Thermal analysis of PV modules. In this paper we used **YOLOv5 (YOU LOOK ONLY ONCE version 5)** for detections, which is a novel state of art convolutional neural network (CNN) that detects objects in real-time with great accuracy. This approach uses a single neural network to process the entire picture, then separates it into parts and predicts bounding boxes and probabilities for each component. Using YOLOv5 we detected:
-  <br>
+ 
+ <br>
       - **Photovoltaic array module**
       - **Single PV module**
       - **Faulted PV module (on the basis of temperature variation)** 
-  <br>
+ <br>
 
 <div align = "center">
  <img src= "./assets/quadcopter.png" align = "left" width = 350>
